@@ -1,5 +1,7 @@
 # Gmeek Publish Skill
 
+[中文文档](README_CN.md) | [English Documentation](README.md)
+
 This repository contains a **Trae Skill** that automates publishing Markdown files to a Gmeek-based GitHub blog.
 
 ## 📂 Repository Contents

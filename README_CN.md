@@ -1,5 +1,7 @@
 # Gmeek 发布技能 (Gmeek Publish Skill)
 
+[English Documentation](README.md) | [中文文档](README_CN.md)
+
 本仓库包含一个 **Trae Skill (技能)**，用于自动化将 Markdown 文件发布到基于 Gmeek 框架的 GitHub 博客。
 
 ## 📂 仓库内容
