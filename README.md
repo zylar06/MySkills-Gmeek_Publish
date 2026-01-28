@@ -4,6 +4,14 @@
 
 This repository contains a **Trae Skill** that automates publishing Markdown files to a Gmeek-based GitHub blog.
 
+## ✨ Why use this Skill?
+
+*   **One-Click Publishing**: No need to manually create Issues on GitHub. Just say "Publish this file" to the AI.
+*   **Automatic Updates**: Intelligently detects if an article has been published and automatically **updates the existing Issue** instead of creating a duplicate.
+*   **Label Management**: Supports defining labels directly in Front Matter (e.g., `labels: [Tech, Life]`), which are automatically synchronized to GitHub.
+*   **Zero Dependencies**: The core script uses only Python standard libraries, requiring no additional `pip install`.
+
+
 ## 📂 Repository Contents
 
 *   `SKILL.md`: The definition file for the Trae Skill.
